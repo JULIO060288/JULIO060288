@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @JULIO060288
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Julio César Zenteno E.
+- 👀 Licenciatura en Informatica Administrativa
+- 🌱 Mestria en Desarrollo de Software
+- 💞️ Experiencia en:
+    - JavaScript
+    - Jquery
+    - Laravel
+    - Mysql
+    - Flutter
 
 <!---
 JULIO060288/JULIO060288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
