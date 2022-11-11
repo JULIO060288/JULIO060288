@@ -1,6 +1,6 @@
 - 👋 Julio César Zenteno E.
 - 👀 Licenciatura en Informatica Administrativa
-- 🌱 Mestria en Desarrollo de Software
+- 🌱 Maestria en Desarrollo de Software
 - 💞️ Experiencia en:
     - JavaScript
     - Jquery
