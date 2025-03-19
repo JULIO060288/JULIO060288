@@ -6,7 +6,7 @@
     - Jquery
     - Laravel
     - Mysql
-    - React
+    - Vue 3
 
 <!---
 JULIO060288/JULIO060288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
